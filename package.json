@@ -1,0 +1,14 @@
+{
+  "name": "asyncawait",
+  "version": "1.0.0",
+  "description": "",
+  "main": "load.js",
+  "scripts": {
+    "start": "node load.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
